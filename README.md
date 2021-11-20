@@ -1,4 +1,4 @@
-# Cobra - 9 : COBRA_On_LSTM
+# Cobra - 9 : COBRA_ON_SEQUENTIAL_MODELS
 Merging cobra on sequential prediction setup
 
 -------- DISCLAIMER --------
